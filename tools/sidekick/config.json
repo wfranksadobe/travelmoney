@@ -1,6 +1,6 @@
 {
     "project": "SecurBank",
-    "host": "www.securbankdemo.com",
+    "host": "main--securbank-www--wfranksadobe.hlx.live",
     "plugins": [
         {
             "id": "library",
