@@ -1,6 +1,6 @@
 export default async function decorate(block) {
    
-    const aempublishurl = 'https://publish-p55117-e571178.adobeaemcloud.com'
+    const aempublishurl = 'https://publish-p107502-e1212957.adobeaemcloud.com'
     const persistedquery = '/graphql/execute.json/securbank/OfferByPath'
     const cfpath = '/content/dam/securbank/en/offers/'
     
