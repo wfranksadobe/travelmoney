@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "main--securbank-www--wfranksadobe.hlx.live",
+    "project": "Travel Money",
+    "host": "main--travelmoney--wfranksadobe.hlx.live",
     "plugins": [
         {
             "id": "library",
